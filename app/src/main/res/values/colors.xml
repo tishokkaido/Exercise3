@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="pink">#FF1493</color>
     <color name="yellow">#FFFF00</color>
+    <color name="blue">#0000FF</color>
 </resources>
